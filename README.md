@@ -1,4 +1,4 @@
-### Hello World 👋 **I'am  Back-End Developer** :gem:
+### Hello World 👋 **I'am minimalist Back-End Developer** :gem:
 
 [![Linkedin: pedrontc](https://img.shields.io/badge/-pedrontc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrontc/)](https://www.linkedin.com/in/pedrontc/)
 
