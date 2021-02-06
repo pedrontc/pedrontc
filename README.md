@@ -1,2 +1,2 @@
-### Hello World 👋 **I'am minimalist Back-End Developer** :gem:
+### Hello World 👋 **I'am Java Developer** :coffee:
 
