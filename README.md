@@ -1,2 +1,2 @@
-### Hello World 👋 **I'am Java Developer** :coffee:
+### Hello World 👋 **I'am Ruby and Rails Developer** :coffee:
 
