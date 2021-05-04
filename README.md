@@ -9,3 +9,6 @@ I'm a Brazilian Software Developer living in Cuiabá-MT.
 Currently I'm focused on
 - 💻 Studying PHP, Laravel and WordPress.
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedrontc&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=gruvbox&langs_count=5)](https://github.com/pedrontc/github-readme-stats)
