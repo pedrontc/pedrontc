@@ -7,7 +7,7 @@
 I am a Brazilian intern Software Developer living and working in Cuiabá-MT.
 
 Currently I'm focused on
-- 💻 Studying PHP, Laravel and WordPress.
+- 💻 Studying Java, Spring, Angular and React.
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrontc&hide=issues&theme=cobalt&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
