@@ -7,7 +7,7 @@
 I am a Brazilian Systems Analyst Trainee living and working in Cuiabá-MT.
 
 Currently I'm focused on
-- 💻 Systems Analyst Drupal, PHP.
+- 💻 Systems Analyst Drupal, PHP
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrontc&hide=issues&theme=cobalt&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
