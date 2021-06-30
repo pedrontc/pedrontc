@@ -11,4 +11,4 @@ Currently I'm focused on
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrontc&show_icons=true&theme=radical)
-![Pedro Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=cobalt&langs_count=6)
+![Pedro Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=radical&langs_count=6)
