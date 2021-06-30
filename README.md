@@ -10,5 +10,5 @@ Currently I'm focused on
 - 💻 Systems Analyst Drupal, PHP
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrontc&show_icons=true&theme=radical)
-![Pedro Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=radical&langs_count=6)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrontc&show_icons=true&theme=dracula)
+![Pedro Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=dracula&langs_count=6)
