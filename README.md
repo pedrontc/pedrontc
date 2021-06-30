@@ -10,3 +10,4 @@ Currently I'm focused on
 - 💻 Systems Analyst Drupal, PHP
 - 📹 My portuguese [YouTube channel](https://youtube.com/pedrohenriqueprogrammer/)
 
+![dale](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrontc&layout=compact&theme=cobalt&langs_count=6)
